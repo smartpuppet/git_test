@@ -1,1 +1,2 @@
 Hello Git test
+this is a test of the commit command on the command line
